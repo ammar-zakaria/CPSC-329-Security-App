@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace CPSC_329_Security_App.Tools
 {
-    public partial class testform : Form
+    public partial class PasswordTester : Form
     {
-        public testform()
+        public PasswordTester()
         {
             InitializeComponent();
         }

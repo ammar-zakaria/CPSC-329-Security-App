@@ -86,6 +86,7 @@ namespace CPSC329SecurityApp
             this.passwordTesterToolStripMenuItem.Name = "passwordTesterToolStripMenuItem";
             this.passwordTesterToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.passwordTesterToolStripMenuItem.Text = "Password Tester";
+            this.passwordTesterToolStripMenuItem.Click += new System.EventHandler(this.passwordTesterToolStripMenuItem_Click);
             // 
             // BaseForm
             // 
@@ -96,7 +97,6 @@ namespace CPSC329SecurityApp
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "BaseForm";
             this.Text = "CPSC 329 Security App";
-            this.Load += new System.EventHandler(this.BaseForm_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);

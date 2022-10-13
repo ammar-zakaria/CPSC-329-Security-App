@@ -1,7 +1,7 @@
 ﻿
 namespace CPSC_329_Security_App.Tools
 {
-    partial class testform
+    partial class PasswordTester
     {
         /// <summary>
         /// Required designer variable.
@@ -29,10 +29,17 @@ namespace CPSC_329_Security_App.Tools
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.SuspendLayout();
+            // 
+            // PasswordTester
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "testform";
+            this.ClientSize = new System.Drawing.Size(678, 275);
+            this.Name = "PasswordTester";
+            this.Text = "Password Strength Tester";
+            this.ResumeLayout(false);
+
         }
 
         #endregion

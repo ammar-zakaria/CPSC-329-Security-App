@@ -14,25 +14,11 @@ namespace CPSC329SecurityApp
     public partial class BaseForm : Form
     {
         private Form PasswordGeneratorWindow { get; set; }
+        private Form PasswordTesterWindow { get; set; }
 
         public BaseForm()
         {
             InitializeComponent();
-        }
-
-        private void toolStripDropDownButton2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void toolStripComboBox1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void BaseForm_Load(object sender, EventArgs e)
-        {
-
         }
 
         private void passwordGeneratorToolStripMenuItem_Click(object sender, EventArgs e)
@@ -51,29 +37,28 @@ namespace CPSC329SecurityApp
             {
                 this.PasswordGeneratorWindow.BringToFront();
             }
-
-            var numlist = new List<int>();
-            numlist.Add(5);
-
-            foreach (var a in numlist)
-            {
-
-            }
-
-
         }
 
-        public static bool disableBttn = false;
+        private void passwordTesterToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (this.PasswordTesterWindow == null)
+            {
+                this.PasswordTesterWindow = new PasswordTester();
+                this.PasswordTesterWindow.Show();
+                this.PasswordTesterWindow.FormClosed += (sender1, e1) =>
+                {
+                    this.PasswordTesterWindow = null;
+                };
+            }
+            else
+            {
+                this.PasswordTesterWindow.BringToFront();
+            }
+        }
 
         private void exitToolStripMenuItem_Click(object sender, EventArgs e)
         {
             this.Close();
-        }
-
-        private void testformToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            var x = new testform();
-            x.Show();
         }
     }
 }

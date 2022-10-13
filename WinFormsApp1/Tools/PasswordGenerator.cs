@@ -17,10 +17,9 @@ namespace CPSC_329_Security_App.Tools
             InitializeComponent();
         }
 
-        private void GenerateasdPassword()
+        private void GeneratePassword()
         {
-            var secureRNG = new System.Security.Cryptography.RNGCryptoServiceProvider();
-//            System.Web.Security.Membership.GeneratePassword(int length, int numberOfNonAlphanumericCharacters);
+            //var secureRNG = new System.Security.Cryptography.RNGCryptoServiceProvider();
         }
     }
 }
