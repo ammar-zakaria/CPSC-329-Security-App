@@ -1,0 +1,22 @@
+C:\Work\School\329\Final Project\Security App\WinFormsApp1\bin\Debug\net5.0-windows\CPSC 329 Security App.exe
+C:\Work\School\329\Final Project\Security App\WinFormsApp1\bin\Debug\net5.0-windows\CPSC 329 Security App.deps.json
+C:\Work\School\329\Final Project\Security App\WinFormsApp1\bin\Debug\net5.0-windows\CPSC 329 Security App.runtimeconfig.json
+C:\Work\School\329\Final Project\Security App\WinFormsApp1\bin\Debug\net5.0-windows\CPSC 329 Security App.runtimeconfig.dev.json
+C:\Work\School\329\Final Project\Security App\WinFormsApp1\bin\Debug\net5.0-windows\CPSC 329 Security App.dll
+C:\Work\School\329\Final Project\Security App\WinFormsApp1\bin\Debug\net5.0-windows\ref\CPSC 329 Security App.dll
+C:\Work\School\329\Final Project\Security App\WinFormsApp1\bin\Debug\net5.0-windows\CPSC 329 Security App.pdb
+C:\Work\School\329\Final Project\Security App\WinFormsApp1\obj\Debug\net5.0-windows\CPSC 329 Security App.csproj.AssemblyReference.cache
+C:\Work\School\329\Final Project\Security App\WinFormsApp1\obj\Debug\net5.0-windows\CPSC 329 Security App.csproj.ResolveComReference.cache
+C:\Work\School\329\Final Project\Security App\WinFormsApp1\obj\Debug\net5.0-windows\CPSC329SecurityApp.BaseForm.resources
+C:\Work\School\329\Final Project\Security App\WinFormsApp1\obj\Debug\net5.0-windows\CPSC_329_Security_App.Properties.Resources.resources
+C:\Work\School\329\Final Project\Security App\WinFormsApp1\obj\Debug\net5.0-windows\CPSC_329_Security_App.Tools.PasswordGenerator.resources
+C:\Work\School\329\Final Project\Security App\WinFormsApp1\obj\Debug\net5.0-windows\CPSC 329 Security App.csproj.GenerateResource.cache
+C:\Work\School\329\Final Project\Security App\WinFormsApp1\obj\Debug\net5.0-windows\CPSC 329 Security App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\School\329\Final Project\Security App\WinFormsApp1\obj\Debug\net5.0-windows\CPSC 329 Security App.AssemblyInfoInputs.cache
+C:\Work\School\329\Final Project\Security App\WinFormsApp1\obj\Debug\net5.0-windows\CPSC 329 Security App.AssemblyInfo.cs
+C:\Work\School\329\Final Project\Security App\WinFormsApp1\obj\Debug\net5.0-windows\CPSC 329 Security App.csproj.CoreCompileInputs.cache
+C:\Work\School\329\Final Project\Security App\WinFormsApp1\obj\Debug\net5.0-windows\CPSC 329 Security App.dll
+C:\Work\School\329\Final Project\Security App\WinFormsApp1\obj\Debug\net5.0-windows\ref\CPSC 329 Security App.dll
+C:\Work\School\329\Final Project\Security App\WinFormsApp1\obj\Debug\net5.0-windows\CPSC 329 Security App.pdb
+C:\Work\School\329\Final Project\Security App\WinFormsApp1\obj\Debug\net5.0-windows\CPSC 329 Security App.genruntimeconfig.cache
+C:\Work\School\329\Final Project\Security App\WinFormsApp1\obj\Debug\net5.0-windows\CPSC_329_Security_App.Tools.testform.resources
