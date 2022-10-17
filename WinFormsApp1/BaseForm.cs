@@ -26,7 +26,7 @@ namespace CPSC329SecurityApp
             if (this.PasswordGeneratorWindow == null)
             {
 
-                this.PasswordGeneratorWindow = new PasswordGenerator();
+                this.PasswordGeneratorWindow = new PasswordGeneratorForm();
                 this.PasswordGeneratorWindow.Show();
                 this.PasswordGeneratorWindow.FormClosed += (sender1, e1) =>
                 {
