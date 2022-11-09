@@ -23,9 +23,33 @@ namespace CPSC329SecurityApp
 
         private void passwordGeneratorToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            this.OpenPasswordGeneratorForm();
+        }
+
+        private void passwordTesterToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.OpenPasswordTesterForm();
+        }
+
+        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void passwordGeneratorButton_Click(object sender, EventArgs e)
+        {
+            this.OpenPasswordGeneratorForm();
+        }
+
+        private void passwordTesterButton_Click(object sender, EventArgs e)
+        {
+            this.OpenPasswordTesterForm();
+        }
+
+        private void OpenPasswordGeneratorForm()
+        {
             if (this.PasswordGeneratorWindow == null)
             {
-
                 this.PasswordGeneratorWindow = new PasswordGeneratorForm();
                 this.PasswordGeneratorWindow.Show();
                 this.PasswordGeneratorWindow.FormClosed += (sender1, e1) =>
@@ -39,7 +63,7 @@ namespace CPSC329SecurityApp
             }
         }
 
-        private void passwordTesterToolStripMenuItem_Click(object sender, EventArgs e)
+        private void OpenPasswordTesterForm()
         {
             if (this.PasswordTesterWindow == null)
             {
@@ -54,11 +78,6 @@ namespace CPSC329SecurityApp
             {
                 this.PasswordTesterWindow.BringToFront();
             }
-        }
-
-        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            this.Close();
         }
     }
 }
