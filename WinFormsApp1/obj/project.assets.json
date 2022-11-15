@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\azaka\\.nuget\\packages\\": {}
+    "C:\\Users\\syied\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Work\\School\\329\\Final Project\\Security App\\WinFormsApp1\\CPSC 329 Security App.csproj",
+      "projectUniqueName": "C:\\Users\\syied\\Source\\Repos\\ammar-zakaria\\CPSC-329-Security-App\\WinFormsApp1\\CPSC 329 Security App.csproj",
       "projectName": "CPSC 329 Security App",
-      "projectPath": "C:\\Work\\School\\329\\Final Project\\Security App\\WinFormsApp1\\CPSC 329 Security App.csproj",
-      "packagesPath": "C:\\Users\\azaka\\.nuget\\packages\\",
-      "outputPath": "C:\\Work\\School\\329\\Final Project\\Security App\\WinFormsApp1\\obj\\",
+      "projectPath": "C:\\Users\\syied\\Source\\Repos\\ammar-zakaria\\CPSC-329-Security-App\\WinFormsApp1\\CPSC 329 Security App.csproj",
+      "packagesPath": "C:\\Users\\syied\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\syied\\Source\\Repos\\ammar-zakaria\\CPSC-329-Security-App\\WinFormsApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\azaka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\syied\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

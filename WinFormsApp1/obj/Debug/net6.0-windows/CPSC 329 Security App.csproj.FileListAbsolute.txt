@@ -19,3 +19,24 @@ C:\Work\School\329\Final Project\Security App\WinFormsApp1\obj\Debug\net6.0-wind
 C:\Work\School\329\Final Project\Security App\WinFormsApp1\obj\Debug\net6.0-windows\ref\CPSC 329 Security App.dll
 C:\Work\School\329\Final Project\Security App\WinFormsApp1\obj\Debug\net6.0-windows\CPSC_329_Security_App.Tools.PasswordTester.resources
 C:\Work\School\329\Final Project\Security App\WinFormsApp1\obj\Debug\net6.0-windows\CPSC_329_Security_App.Tools.PasswordGeneratorForm.resources
+C:\Users\syied\Source\Repos\ammar-zakaria\CPSC-329-Security-App\WinFormsApp1\bin\Debug\net6.0-windows\CPSC 329 Security App.exe
+C:\Users\syied\Source\Repos\ammar-zakaria\CPSC-329-Security-App\WinFormsApp1\bin\Debug\net6.0-windows\CPSC 329 Security App.deps.json
+C:\Users\syied\Source\Repos\ammar-zakaria\CPSC-329-Security-App\WinFormsApp1\bin\Debug\net6.0-windows\CPSC 329 Security App.runtimeconfig.json
+C:\Users\syied\Source\Repos\ammar-zakaria\CPSC-329-Security-App\WinFormsApp1\bin\Debug\net6.0-windows\CPSC 329 Security App.dll
+C:\Users\syied\Source\Repos\ammar-zakaria\CPSC-329-Security-App\WinFormsApp1\bin\Debug\net6.0-windows\CPSC 329 Security App.pdb
+C:\Users\syied\Source\Repos\ammar-zakaria\CPSC-329-Security-App\WinFormsApp1\obj\Debug\net6.0-windows\CPSC 329 Security App.csproj.AssemblyReference.cache
+C:\Users\syied\Source\Repos\ammar-zakaria\CPSC-329-Security-App\WinFormsApp1\obj\Debug\net6.0-windows\CPSC 329 Security App.csproj.ResolveComReference.cache
+C:\Users\syied\Source\Repos\ammar-zakaria\CPSC-329-Security-App\WinFormsApp1\obj\Debug\net6.0-windows\CPSC329SecurityApp.BaseForm.resources
+C:\Users\syied\Source\Repos\ammar-zakaria\CPSC-329-Security-App\WinFormsApp1\obj\Debug\net6.0-windows\CPSC_329_Security_App.Properties.Resources.resources
+C:\Users\syied\Source\Repos\ammar-zakaria\CPSC-329-Security-App\WinFormsApp1\obj\Debug\net6.0-windows\CPSC_329_Security_App.Tools.PasswordGeneratorForm.resources
+C:\Users\syied\Source\Repos\ammar-zakaria\CPSC-329-Security-App\WinFormsApp1\obj\Debug\net6.0-windows\CPSC_329_Security_App.Tools.PasswordTester.resources
+C:\Users\syied\Source\Repos\ammar-zakaria\CPSC-329-Security-App\WinFormsApp1\obj\Debug\net6.0-windows\CPSC 329 Security App.csproj.GenerateResource.cache
+C:\Users\syied\Source\Repos\ammar-zakaria\CPSC-329-Security-App\WinFormsApp1\obj\Debug\net6.0-windows\CPSC 329 Security App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syied\Source\Repos\ammar-zakaria\CPSC-329-Security-App\WinFormsApp1\obj\Debug\net6.0-windows\CPSC 329 Security App.AssemblyInfoInputs.cache
+C:\Users\syied\Source\Repos\ammar-zakaria\CPSC-329-Security-App\WinFormsApp1\obj\Debug\net6.0-windows\CPSC 329 Security App.AssemblyInfo.cs
+C:\Users\syied\Source\Repos\ammar-zakaria\CPSC-329-Security-App\WinFormsApp1\obj\Debug\net6.0-windows\CPSC 329 Security App.csproj.CoreCompileInputs.cache
+C:\Users\syied\Source\Repos\ammar-zakaria\CPSC-329-Security-App\WinFormsApp1\obj\Debug\net6.0-windows\CPSC 329 Security App.dll
+C:\Users\syied\Source\Repos\ammar-zakaria\CPSC-329-Security-App\WinFormsApp1\obj\Debug\net6.0-windows\refint\CPSC 329 Security App.dll
+C:\Users\syied\Source\Repos\ammar-zakaria\CPSC-329-Security-App\WinFormsApp1\obj\Debug\net6.0-windows\CPSC 329 Security App.pdb
+C:\Users\syied\Source\Repos\ammar-zakaria\CPSC-329-Security-App\WinFormsApp1\obj\Debug\net6.0-windows\CPSC 329 Security App.genruntimeconfig.cache
+C:\Users\syied\Source\Repos\ammar-zakaria\CPSC-329-Security-App\WinFormsApp1\obj\Debug\net6.0-windows\ref\CPSC 329 Security App.dll
