@@ -396,3 +396,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+.vs/ProjectEvaluation/security app.metadata.v5.1
+.vs/ProjectEvaluation/security app.projects.v5.1
+.vs/Security App/DesignTimeBuild/.dtbcache.v2
+.vs/Security App/v17/.suo
+.vs/Security App/v17/.futdcache.v2
+.vs/Security App/FileContentIndex/85d5936a-b6ea-4c75-9ad9-45dede3f26ee.vsidx
