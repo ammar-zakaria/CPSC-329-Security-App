@@ -79,15 +79,15 @@ namespace CPSC329SecurityApp
             {
                strengthString += "\n\nYOU CAN IMPROVE YOUR PASSWORDS STRENGTH BY:";
                 if (!goodLength)
-                    strengthString += "\n\t-\tMaking your password at least " + minLength +" characters long";
+                    strengthString += "\n   -  Making your password at least " + minLength +" characters long";
                 if (!hasLowercase)
-                    strengthString += "\n\t-\tIncluding at least one lowercase letter";
+                    strengthString += "\n   -  Including at least one lowercase letter";
                 if (!hasUppercase)
-                    strengthString += "\n\t-\tIncluding at least one uppercase letter";
+                    strengthString += "\n   -  Including at least one uppercase letter";
                 if (!hasNumber)
-                    strengthString += "\n\t-\tIncluding at least one number";
+                    strengthString += "\n   -  Including at least one number";
                 if (!hasSymbol)
-                    strengthString += "\n\t-\tIncluding at least one symbol";            
+                    strengthString += "\n   -  Including at least one symbol";            
             }
 
             return strengthString + '\n';

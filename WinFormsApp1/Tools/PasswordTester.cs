@@ -23,7 +23,7 @@ namespace CPSC_329_Security_App.Tools
             var passwordToTest = new Tester("NordPass2021List.txt", 8);
             string passwordStr = passwordToTest.testPassword(passwordInput.Text);
 
-            if (!string.IsNullOrEmpty(passwordStr))
+            if (!string.IsNullOrEmpty(passwordInput.Text))
             {
                 MessageBox.Show(passwordStr, "Password Strength", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }

@@ -36,7 +36,7 @@ namespace CPSC_329_Security_App.Tools
             // 
             // passwordTest
             // 
-            this.passwordTest.Location = new System.Drawing.Point(235, 264);
+            this.passwordTest.Location = new System.Drawing.Point(213, 160);
             this.passwordTest.Name = "passwordTest";
             this.passwordTest.Size = new System.Drawing.Size(144, 27);
             this.passwordTest.TabIndex = 0;
@@ -46,24 +46,24 @@ namespace CPSC_329_Security_App.Tools
             // 
             // passwordInput
             // 
-            this.passwordInput.Location = new System.Drawing.Point(168, 141);
+            this.passwordInput.Location = new System.Drawing.Point(150, 101);
             this.passwordInput.Name = "passwordInput";
             this.passwordInput.PlaceholderText = "Type your password here";
-            this.passwordInput.Size = new System.Drawing.Size(279, 27);
+            this.passwordInput.Size = new System.Drawing.Size(270, 27);
             this.passwordInput.TabIndex = 1;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(167, 112);
+            this.label1.Location = new System.Drawing.Point(167, 72);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(211, 20);
+            this.label1.Size = new System.Drawing.Size(236, 20);
             this.label1.TabIndex = 2;
-            this.label1.Text = "Test strength of your password";
+            this.label1.Text = "Test the strength of your password";
             // 
             // PasswordTester
             // 
-            this.ClientSize = new System.Drawing.Size(629, 361);
+            this.ClientSize = new System.Drawing.Size(552, 264);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.passwordInput);
             this.Controls.Add(this.passwordTest);
