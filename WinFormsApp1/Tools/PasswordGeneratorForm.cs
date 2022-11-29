@@ -20,6 +20,15 @@ namespace CPSC_329_Security_App.Tools
             this.passLengthController.Value = 8;
         }
 
+        //private void generateButton_Paint(object sender, PaintEventArgs e)
+        //{
+        //    ControlPaint.DrawBorder(e.Graphics, generateButton.ClientRectangle,
+        //        SystemColors.ControlLightLight, 5, ButtonBorderStyle.Outset,
+        //        SystemColors.ControlLightLight, 5, ButtonBorderStyle.Outset,
+        //        SystemColors.ControlLightLight, 5, ButtonBorderStyle.Outset,
+        //        SystemColors.ControlLightLight, 5, ButtonBorderStyle.Outset);
+        //}
+
         private static string CreatePassword(int passLength, bool includesSpecChars, bool includeNumbers, bool excludeAmbigChars, bool includeUpperChars, bool includeLowerChars)
         {
             var valid = string.Empty;

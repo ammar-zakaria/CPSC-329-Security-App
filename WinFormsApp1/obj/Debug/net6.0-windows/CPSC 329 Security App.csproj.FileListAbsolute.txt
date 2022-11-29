@@ -40,3 +40,4 @@ C:\Users\syied\Source\Repos\ammar-zakaria\CPSC-329-Security-App\WinFormsApp1\obj
 C:\Users\syied\Source\Repos\ammar-zakaria\CPSC-329-Security-App\WinFormsApp1\obj\Debug\net6.0-windows\CPSC 329 Security App.pdb
 C:\Users\syied\Source\Repos\ammar-zakaria\CPSC-329-Security-App\WinFormsApp1\obj\Debug\net6.0-windows\CPSC 329 Security App.genruntimeconfig.cache
 C:\Users\syied\Source\Repos\ammar-zakaria\CPSC-329-Security-App\WinFormsApp1\obj\Debug\net6.0-windows\ref\CPSC 329 Security App.dll
+C:\Work\School\329\Final Project\Security App\WinFormsApp1\bin\Debug\net6.0-windows\Resources\NordPass2021List.txt

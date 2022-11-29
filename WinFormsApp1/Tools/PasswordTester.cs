@@ -1,13 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using CPSC329SecurityApp;
+using CPSC_329_Security_App.Resources;
 
 namespace CPSC_329_Security_App.Tools
 {
@@ -16,11 +9,12 @@ namespace CPSC_329_Security_App.Tools
         public PasswordTester()
         {
             InitializeComponent();
+            this.passwordInput.Select();
         }
 
         private void passwordTest_Click(object sender, EventArgs e)
         {
-            var passwordToTest = new Tester("NordPass2021List.txt", 8);
+            var passwordToTest = new Tester(Environment.CurrentDirectory + "\\NordPass2021List.txt", 8);
             string passwordStr = passwordToTest.testPassword(passwordInput.Text);
 
             if (!string.IsNullOrEmpty(passwordInput.Text))
@@ -33,6 +27,5 @@ namespace CPSC_329_Security_App.Tools
             }
 
         }
-
     }
 }

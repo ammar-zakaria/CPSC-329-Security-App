@@ -55,14 +55,16 @@ namespace CPSC_329_Security_App.Tools
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(167, 72);
+            this.label1.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label1.Location = new System.Drawing.Point(157, 72);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(236, 20);
+            this.label1.Size = new System.Drawing.Size(255, 20);
             this.label1.TabIndex = 2;
             this.label1.Text = "Test the strength of your password";
             // 
             // PasswordTester
             // 
+            this.AcceptButton = this.passwordTest;
             this.ClientSize = new System.Drawing.Size(552, 264);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.passwordInput);

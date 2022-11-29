@@ -1,14 +1,14 @@
 ﻿using System;
 using System.IO;
 
-namespace CPSC329SecurityApp
+namespace CPSC_329_Security_App.Resources
 {
     class Tester
     {
         string filename;
         string commonPasswords;
         int minLength;
-        
+
         public Tester(string filename, int minLength)
         {
             this.filename = filename;
@@ -60,7 +60,7 @@ namespace CPSC329SecurityApp
             }
 
             //For each flag set, increment the password's score
-            if(hasLowercase)
+            if (hasLowercase)
                 strengthScore++;
             if (hasUppercase)
                 strengthScore++;
@@ -77,9 +77,9 @@ namespace CPSC329SecurityApp
 
             if (strengthScore < 5)
             {
-               strengthString += "\n\nYOU CAN IMPROVE YOUR PASSWORDS STRENGTH BY:";
+                strengthString += "\n\nYOU CAN IMPROVE YOUR PASSWORDS STRENGTH BY:";
                 if (!goodLength)
-                    strengthString += "\n   -  Making your password at least " + minLength +" characters long";
+                    strengthString += "\n   -  Making your password at least " + minLength + " characters long";
                 if (!hasLowercase)
                     strengthString += "\n   -  Including at least one lowercase letter";
                 if (!hasUppercase)
@@ -87,7 +87,7 @@ namespace CPSC329SecurityApp
                 if (!hasNumber)
                     strengthString += "\n   -  Including at least one number";
                 if (!hasSymbol)
-                    strengthString += "\n   -  Including at least one symbol";            
+                    strengthString += "\n   -  Including at least one symbol";
             }
 
             return strengthString + '\n';
@@ -98,11 +98,11 @@ namespace CPSC329SecurityApp
          */
         private void getCommonPasswords(string filename)
         {
-             if(File.Exists(filename))
+            if (File.Exists(filename))
             {
                 commonPasswords = File.ReadAllText(filename);
             }
-             else
+            else
             {
                 commonPasswords = "";
             }
