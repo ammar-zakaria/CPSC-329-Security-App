@@ -14,7 +14,7 @@ namespace CPSC_329_Security_App.Tools
 
         private void passwordTest_Click(object sender, EventArgs e)
         {
-            var passwordToTest = new Tester(Environment.CurrentDirectory + "\\NordPass2021List.txt", 8);
+            var passwordToTest = new Tester(Environment.CurrentDirectory + "\\Resources\\NordPass2021List.txt", 8);
             string passwordStr = passwordToTest.testPassword(passwordInput.Text);
 
             if (!string.IsNullOrEmpty(passwordInput.Text))
